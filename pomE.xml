@@ -1,0 +1,20 @@
+<dependencies>
+    <!-- Spring Context for DI and Java-based configuration -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>5.3.20</version> <!-- Replace with the latest version -->
+    </dependency>
+    
+    <!-- Logging dependencies (optional, required by Spring) -->
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.32</version>
+    </dependency>
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-simple</artifactId>
+        <version>1.7.32</version>
+    </dependency>
+</dependencies>
